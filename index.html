@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piano Virtual Para o Asafe</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="./src/styles/reset.css">
+    <link rel="stylesheet" href="./src/styles/main.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Press+Start+2P&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h2>Asafe's Animal Band</h2>
+            <div class="column volume-slider">
+                <span>Volume</span> <input type="range" min="0" max="1" value="0.5" step="any">
+            </div>
+            <div class="column keys-check">
+                <span>Teclas</span> <input type="checkbox" checked>
+            </div>
+        </header>
+
+        <ul class="piano-keys">
+            <li class="key white" data-key="cachorro" style="background-color: #f4794f"><span>🐶</span></li>
+            <li class="key black" data-key="gato"><span>🐱</span></li>
+            <li class="key white" data-key="vaca" style="background-color: #f2f04e"><span>🐮</span></li>
+            <li class="key black" data-key="galinha"><span>🐔</span></li>
+            <li class="key white" data-key="cavalo" style="background-color: #9ecf42"><span>🐴</span></li>
+            <li class="key black" data-key="porco"><span>🐷</span></li>
+            <li class="key white" data-key="urso" style="background-color: #089c48"><span>🐻</span></li>
+            <li class="key black" data-key="sapo"><span>🐸</span></li>
+            <li class="key white" data-key="coruja" style="background-color: #94d7dd"><span>🦉</span></li>
+            <li class="key black" data-key="rato"><span>🐭</span></li>
+            <li class="key white" data-key="macaco" style="background-color: #686cb3"><span>🐵</span></li>
+            <li class="key black" data-key="pinguim"><span>🐧</span></li>
+            <li class="key white" data-key="lobo" style="background-color: #000bff"><span>🐺</span></li>
+            <li class="key black" data-key="tigre"><span>🐯</span></li>
+            <li class="key white" data-key="baleia" style="background-color: #52046b"><span>🐋</span></li>
+            <li class="key black" data-key="pintinho"><span>🐤</span></li>
+            <li class="key white" data-key="leao" style="background-color: #cd1c99"><span>🦁</span></li>
+        </ul>
+
+    </div>
+
+    <script src="./src/scripts/enginer.js" defer></script>
+</body>
+</html>
