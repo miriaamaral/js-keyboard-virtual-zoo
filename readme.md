@@ -1,8 +1,5 @@
 # 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Puro e Muito Amor! ✨
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/miriaamaral/js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo/commits/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/miriaamaral/js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo/graphs/contributors)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 E aí, meu 🐙! Prepare-se para uma aventura divertida e cheia de carinho no meu **Zoológico Virtual Interativo**! 🦁🐘🐒
 
