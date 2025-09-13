@@ -1,4 +1,4 @@
-# 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Puro e Muito Amor! ✨
+## 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Puro e Muito Amor! ✨
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/miriaamaral/js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo/commits/main)
 [![GitHub contributors](https://img.shields.io/github/contributors/miriaamaral/js-keyboard-virtual-zoo)](https://github.com/miriaamaral/js-keyboard-virtual-zoo/graphs/contributors)
@@ -6,7 +6,7 @@
 
 E aí, meu 🐙! Prepare-se para uma aventura divertida e cheia de carinho no meu **Zoológico Virtual Interativo**! 🦁🐘🐒
 
-Este projeto super criativo e didático foi desenvolvido usando **JavaScript puro, HTML e CSS** para simular um teclado musical, onde cada tecla reproduz o som e exibe a imagem de um animal diferente.
+Este projeto super criativo e didático foi desenvolvido usando ** JavaScript puro, HTML e CSS** para simular um teclado musical, onde cada tecla reproduz o som e exibe a imagem de um animal diferente.
 
 **A inspiração para este zoológico veio do lugar mais especial:** pensando no meu **bebê, que na época tinha apenas 6 meses de vida!** Ele adorava um tecladinho, e eu personalizei este projeto com sons e imagens de animais para que ele pudesse interagir e se divertir explorando o mundo animal de um jeito único. ❤️
 
@@ -14,25 +14,25 @@ Este projeto super criativo e didático foi desenvolvido usando **JavaScript pur
 
 ---
 
-### **✨ Destaques do Projeto:**
+### ✨ Destaques do Projeto:
 
-* **Teclado Interativo:** Pressione as teclas do seu teclado (A, S, D, F, G, H, J, K, L) para "tocar" os animais e interagir.
-* **Experiência Multimídia:** Sons de animais e imagens dinâmicas que aparecem ao toque.
-* **JavaScript Puro:** Uma ótima forma de ver o poder e a flexibilidade do JS sem a complexidade de frameworks.
-* **Manipulação do DOM:** Uso prático de `querySelector`, `addEventListener`, manipulação de classes CSS e gerenciamento de áudio/imagem.
-* **HTML Semântico e CSS Estilizado:** Estrutura clara e um design responsivo, divertido e funcional.
-* **Projeto com Afeto:** Uma prova de que a programação pode ser feita com muito amor e pensando em quem a gente mais ama!
+* Teclado Interativo: Pressione as teclas do seu teclado (A, S, D, F, G, H, J, K, L) para "tocar" os animais e interagir.
+* Experiência Multimídia: Sons de animais e imagens dinâmicas que aparecem ao toque.
+* JavaScript Puro: Uma ótima forma de ver o poder e a flexibilidade do JS sem a complexidade de frameworks.
+* Manipulação do DOM: Uso prático de `querySelector`, `addEventListener`, manipulação de classes CSS e gerenciamento de áudio/imagem.
+* HTML Semântico e CSS Estilizado: Estrutura clara e um design responsivo, divertido e funcional.
+* Projeto com Afeto: Uma prova de que a programação pode ser feita com muito amor e pensando em quem a gente mais ama!
 
 ---
 
-### **🎥 Veja o Projeto em Ação!**
+### 🎥 Veja o Projeto em Ação!
 
 Quer brincar no Zoológico Virtual agora mesmo? Clique aqui para acessar a demo online!
 [**https://miriaamaral.github.io/js-keyboard-virtual-zoo/**](https://miriaamaral.github.io/js-keyboard-virtual-zoo/)
 
 ---
 
-### **🚀 Tecnologias Envolvidas:**
+### 🚀 Tecnologias Envolvidas:
 
 * **HTML5:** Estrutura semântica do teclado e dos elementos visuais.
 * **CSS3:** Estilização responsiva dos botões, layout, transições e efeitos visuais.
