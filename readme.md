@@ -16,6 +16,8 @@ Este projeto super criativo e didático foi desenvolvido usando **JavaScript pur
 
 ### **✨ Destaques do Projeto:**
 
+* **[Aprofunde-se nos Eventos DOM!](docs/entendendo-eventos-dom.md)** Quer entender **como** toda a interatividade de teclado e som foi implementada? Clique aqui para ver um **passo a passo detalhado sobre a manipulação de Eventos DOM** neste projeto! 🧠
+
 * **Teclado Interativo:** Pressione as teclas do seu teclado (A, S, D, F, G, H, J, K, L) para "tocar" os animais e interagir.
 * **Experiência Multimídia:** Sons de animais e imagens dinâmicas que aparecem ao toque.
 * **JavaScript Puro:** Uma ótima forma de ver o poder e a flexibilidade do JS sem a complexidade de frameworks.
