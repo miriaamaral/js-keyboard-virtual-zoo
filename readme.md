@@ -27,7 +27,7 @@ Este projeto super criativo e didático foi desenvolvido usando **JavaScript pur
 
 ### **🧠 Desvendando a Interatividade: Implementação dos Eventos DOM**
 
-E aí, meu 🐙! Que tal a gente mergulhar um pouquinho no "como funciona" por trás da mágica do Zoológico Virtual? A interatividade de pressionar uma tecla e ver/ouvir um animal é toda orquestrada pelos **Eventos DOM (Document Object Model)** do JavaScript puro!
+Que tal a gente mergulhar um pouquinho no como funciona por trás da mágica do Zoológico Virtual? A interatividade de pressionar uma tecla e ver/ouvir um animal é toda orquestrada pelos **Eventos DOM (Document Object Model)** do JavaScript puro!
 
 **Aqui está o passo a passo de como foi implementado:**
 
