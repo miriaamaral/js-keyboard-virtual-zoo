@@ -1,4 +1,4 @@
-# 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Puro e Muito Amor! ✨
+# 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Dedicado ao Meu Filho de 6 Meses!
 
 
 E aí, meu 🐙! Prepare-se para uma aventura divertida e cheia de carinho no meu **Zoológico Virtual Interativo**! 🦁🐘🐒
