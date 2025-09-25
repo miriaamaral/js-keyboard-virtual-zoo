@@ -1,5 +1,4 @@
-# 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Dedicado ao Meu Filho de 6 Meses!
-
+# 🎹 JS Keyboard Virtual Zoo: Sons e Diversão com JavaScript Dedicado ao Meu Filho de 6 Meses! 🐶🐮🐧
 
 E aí, meu 🐙! Prepare-se para uma aventura divertida e cheia de carinho no meu **Zoológico Virtual Interativo**! 🦁🐘🐒
 
@@ -11,9 +10,18 @@ Este projeto super criativo e didático foi desenvolvido usando **JavaScript pur
 
 ---
 
+## **🎥 Veja o Projeto em Ação!**
+
+Quer brincar no Zoológico Virtual agora mesmo? Clique aqui para acessar a demo online!
+[Teclado Virtual Zoo/**](https://miriaamaral.github.io/js-keyboard-virtual-zoo/)
+
+<img width="1366" height="641" alt="teclado virtual asafe" src="https://github.com/user-attachments/assets/62a9892c-6029-4cf2-98dc-52e89e56569a" />
+<img width="1366" height="639" alt="teclado virtual asafe 2" src="https://github.com/user-attachments/assets/e0704dcc-5644-487d-94d4-eb93b14319b7" />
+
+
 ### **✨ Destaques do Projeto:**
 
-* **[Aprofunde-se nos Eventos DOM!](docs/entendendo-eventos-dom.md)** Quer entender **como** toda a interatividade de teclado e som foi implementada? Clique aqui para ver um **passo a passo detalhado sobre a manipulação de Eventos DOM** neste projeto! 🧠
+* **[Eventos DOM!](docs/entendendo-eventos-dom.md)** Quer entender **como** toda a interatividade de teclado e som foi implementada? Clique aqui para ver um **passo a passo detalhado sobre a manipulação de Eventos DOM** neste projeto! 🧠
 
 * **Teclado Interativo:** Pressione as teclas do seu teclado (A, S, D, F, G, H, J, K, L) para "tocar" os animais e interagir.
 * **Experiência Multimídia:** Sons de animais e imagens dinâmicas que aparecem ao toque.
@@ -21,13 +29,6 @@ Este projeto super criativo e didático foi desenvolvido usando **JavaScript pur
 * **Manipulação do DOM:** Uso prático de `querySelector`, `addEventListener`, manipulação de classes CSS e gerenciamento de áudio/imagem.
 * **HTML Semântico e CSS Estilizado:** Estrutura clara e um design responsivo, divertido e funcional.
 * **Projeto com Afeto:** Uma prova de que a programação pode ser feita com muito amor e pensando em quem a gente mais ama!
-
----
-
-### **🎥 Veja o Projeto em Ação!**
-
-Quer brincar no Zoológico Virtual agora mesmo? Clique aqui para acessar a demo online!
-[**https://miriaamaral.github.io/js-keyboard-virtual-zoo/**](https://miriaamaral.github.io/js-keyboard-virtual-zoo/)
 
 ---
 
@@ -54,7 +55,7 @@ Quer brincar no Zoológico Virtual agora mesmo? Clique aqui para acessar a demo 
 
 ---
 
-### **🤝 Como Contribuir (Opcional):**
+### **🤝 Como Contribuir:**
 
 Sinta-se à vontade para explorar o código, sugerir melhorias ou até mesmo adicionar novos animais e sons! Para contribuir:
 
@@ -78,14 +79,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Gostou do Zoológico Virtual, da história por trás dele, ou quer trocar uma ideia sobre JavaScript e criatividade? Ficarei super feliz!
 
-* **LinkedIn:** [https://www.linkedin.com/in/miriaamaralcs](https://www.linkedin.com/in/miriaamaralcs)
-* **GitHub:** [https://github.com/miriaamaral](https://github.com/miriaamaral)
-* **Plataforma de Estudos (DIO):** [https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5](https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriaamaralcs) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miriaamaral) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/miriaamaralcustodiosantos)
+* *Plataforma de Estudos (DIO):* [https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5](https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5)
 
-Vamos juntos construir o futuro da tecnologia (e se divertir no caminho)! ✨
+Vamos juntos construir o futuro da tecnologia! ✨
 
 ---
-
-#### **Tópicos (Tags) para este Repositório:**
-
-`JavaScript HTML CSS Frontend Interativo Audio EventosDOM Portfólio Educacional Brincadeira Afeto WebDev`
